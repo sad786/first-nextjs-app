@@ -58,13 +58,13 @@ importers:
         specifier: ^5.0.2
         version: 5.0.2
       '@types/node':
-        specifier: 22.10.7
+        specifier: ^22.10.7
         version: 22.10.7
       '@types/react':
-        specifier: 19.0.7
+        specifier: ^19.0.7
         version: 19.0.7
       '@types/react-dom':
-        specifier: 19.0.3
+        specifier: ^19.0.3
         version: 19.0.3(@types/react@19.0.7)
 
 packages:
